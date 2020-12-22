@@ -22,7 +22,7 @@ Then, you have to run `npm start` in order to run the express server locally.
 
 ## License
 
-This project is licensed under the Udacity License
+This project is licensed under the Free License
 
 
 <a href="https://snyk.io/test/github/Ameprizzo/weather-journal-app?targetFile=package.json"><img src="https://snyk.io/test/github/Ameprizzo/weather-journal-app/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/Ameprizzo/weather-journal-app?targetFile=package.json" style="max-width:100%;"></a>
